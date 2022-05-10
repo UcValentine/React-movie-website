@@ -1,4 +1,4 @@
-# See the app demo here: https://main.d2i1ktct1jjaxh.amplifyapp.com/
+# See the app demo here: https://ucvalentine.github.io/Movie-website/
 
 ----------------------
 # Getting Started with Create React App
